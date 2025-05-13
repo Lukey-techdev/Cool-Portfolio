@@ -370,8 +370,8 @@ article.icon {
 
 .project-img {
   border-radius: 2rem;
-  width: 30rem;
-  height: 30rem;
+  width: 220%;
+  height: 90%;
   display: block;
   margin: 0 auto;
 }
@@ -381,7 +381,6 @@ article.icon {
   align-items: center; /* centers all children horizontally */
   border-color: rgb(163, 163, 163);
   background: rgb(250, 250, 250);
-  padding: 7rem; /* optional for spacing */
   border-radius: 3rem; /* optional for styling */
 }
 
